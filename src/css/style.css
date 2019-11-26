@@ -1,0 +1,192 @@
+/*stander for site*/
+.body{
+    background-color: #eeeeee;
+    direction: rtl;
+    text-align: center;
+    font-weight: bold;
+    font-size: 20;
+}
+.left{
+    direction: rtl;
+}
+.right{
+    direction: ltr;
+}
+.bg-dark {
+    background-color: #2b2828  !important;
+}
+.Asia{
+    background-color: #D02349;
+}
+.Zain{
+    background-color: #89008B;
+}
+.Korek{
+    background-color: #0199DC;
+}
+.watania{
+    background-color: #ACCB6A;
+}
+.amnia{
+    background-color: #010F78;
+}
+/* End stander for site*/
+/* navedit*/
+.navreduce{
+    border-radius: 0px 0 25px 25px;
+}
+.navpush{
+    margin-left: 3%;
+}
+.buttonreduce{
+    border-radius: 50px;
+    font-weight: bold;
+    width: 180px;
+}
+/* End navedit*/
+/*big company*/
+.section{
+    margin: 2%;
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    color: #ffffff;
+    height: 60px;
+    border-radius: 0px 40px 0px 40px;
+}
+/* End big company*/
+/*small company*/
+.head{
+    text-align: center;
+    color: #ffffff;
+    border-radius: 5px;
+    font-weight: bold;
+    height: 30px;
+    font-size: 20px;
+    width: 100%;
+}
+/* End small company*/
+/* Sell & Add box */
+.headSell{
+    margin: 0 14px 20px 0;
+    height: 35px;
+    font-size: 25px;
+font-weight: bold;
+height: 45px;
+
+}
+.bodySell{
+    width: 100%;
+    background-color: #eeeeee;
+    direction: rtl;
+    text-align: center;
+    font-weight: bold;
+    font-size: 20;
+    
+}
+.inputSell{
+    width: 70px;
+}
+.boxElement{
+    margin-left: -15px;
+    margin-right: 25px;
+    margin-bottom: 25px;
+}
+.inputsellholder{
+    margin-right: 30px;
+    margin-left: -35px;
+
+}
+.buttomStyle{
+    text-align: center;
+}
+.buttomStyle input{
+    width: 650px;
+    border-radius: 25px;
+    font-weight: bold;
+    font-size: 25px;
+}
+.bodyAdd{
+    background-color: #eaeaea;
+    margin-right: 35px;
+    margin-left: 35px;
+    padding: 20px;
+    margin-bottom: 35px;
+}
+.bodyAdd option{
+font-size: 20px;
+}
+.bodyAdd input{
+    margin-right: 25px
+}
+.bodyAdd label{
+    margin-right: 15px;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+}
+/* End Sell & Add box */
+/* table tikit*/
+.PageSize{
+    margin-top: 50px;
+}
+.allTable{
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+}
+.allTable thead{
+    color: #eeeeee;
+}
+.printbt{
+    text-align: center;
+}
+.printbt input{
+    margin-left: 35px;
+}
+/* END table tikit*/
+.search{
+    background-color: #2b282817;
+    width: 100%;
+    height: 100px;
+    padding-top: 40px;
+    padding-right: 40px;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+.search label{
+    font-size: 18px;
+    font-weight: bold;
+}
+.search select{
+    margin-right: 10px;
+}
+.search input{
+    margin-right: 15px;
+    font-weight: bold
+}
+/*Start copyright*/
+.copyright
+{
+    display: block;
+    background: #333;
+    color: #AAA;
+    padding: 15px 0px;
+    font-size: 17px;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
+ span
+{
+   color:  #5988C5;
+   font-weight: 600;
+   font-size: 17px;
+}
+.copyright p
+{
+    display: contents;
+}
+/*End copyright*/

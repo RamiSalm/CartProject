@@ -1,0 +1,217 @@
+     <form>
+        <div class="row left" style='margin-right: 10px;'>
+            <div class="col-3" style="margin-left: -10px ;margin-bottom: 20px ;">
+                <div class=" bodySell ">
+                    <div class="row">
+                        <div class=" col-sm-11 head asia headSell" > asia</div>
+                        <div class="boxElement">كارت فئة 25,000</div>
+                        <div class="col-sm-4 inputsellholder">
+                            <input type="email" class="form-control inputsell" placeholder="Email">
+                        </div>
+                        <div class="col-sm-1">/22</div>
+                    </div>
+                    <div class="clearfix ">
+                        <div class="row">
+                            <div class="boxElement">كارت فئة 25,000</div>
+                            <div class="col-sm-4 inputsellholder">
+                                <input type="email" class="form-control inputsell" placeholder="Email">
+                            </div>
+                            <div class="col-sm-1">/22</div>
+                        </div>
+                    </div>
+                    <div class="clearfix ">
+                        <div class="row">
+                            <div class="boxElement">كارت فئة 25,000</div>
+                            <div class="col-sm-4 inputsellholder">
+                                <input type="email" class="form-control inputsell" placeholder="Email">
+                            </div>
+                            <div class="col-sm-1">/22</div>
+                        </div>
+                    </div>
+                    <div class="clearfix ">
+                        <div class="row">
+                            <div class="boxElement">كارت فئة 25,000</div>
+                            <div class="col-sm-4 inputsellholder">
+                                <input type="email" class="form-control inputsell" placeholder="Email">
+                            </div>
+                            <div class="col-sm-1">/22</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+
+            <div class="col-3" style="margin-left: -10px">
+                <div class=" bodySell ">
+                    <div class="row">
+                        <div class=" col-sm-11 head asia headSell" > asia</div>
+                        <div class="boxElement">كارت فئة 25,000</div>
+                        <div class="col-sm-4 inputsellholder">
+                            <input type="email" class="form-control inputsell" placeholder="Email">
+                        </div>
+                        <div class="col-sm-1">/22</div>
+                    </div>
+                    <div class="clearfix ">
+                        <div class="row">
+                            <div class="boxElement">كارت فئة 25,000</div>
+                            <div class="col-sm-4 inputsellholder">
+                                <input type="email" class="form-control inputsell" placeholder="Email">
+                            </div>
+                            <div class="col-sm-1">/22</div>
+                        </div>
+                    </div>
+                    <div class="clearfix ">
+                        <div class="row">
+                            <div class="boxElement">كارت فئة 25,000</div>
+                            <div class="col-sm-4 inputsellholder">
+                                <input type="email" class="form-control inputsell" placeholder="Email">
+                            </div>
+                            <div class="col-sm-1">/22</div>
+                        </div>
+                    </div>
+                    <div class="clearfix ">
+                        <div class="row">
+                            <div class="boxElement">كارت فئة 25,000</div>
+                            <div class="col-sm-4 inputsellholder">
+                                <input type="email" class="form-control inputsell" placeholder="Email">
+                            </div>
+                            <div class="col-sm-1">/22</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+
+            <div class="col-3" style="margin-left: -10px">
+                    <div class=" bodySell ">
+                        <div class="row">
+                            <div class=" col-sm-11 head asia headSell" > asia</div>
+                            <div class="boxElement">كارت فئة 25,000</div>
+                            <div class="col-sm-4 inputsellholder">
+                                <input type="email" class="form-control inputsell" placeholder="Email">
+                            </div>
+                            <div class="col-sm-1">/22</div>
+                        </div>
+                        <div class="clearfix ">
+                            <div class="row">
+                                <div class="boxElement">كارت فئة 25,000</div>
+                                <div class="col-sm-4 inputsellholder">
+                                    <input type="email" class="form-control inputsell" placeholder="Email">
+                                </div>
+                                <div class="col-sm-1">/22</div>
+                            </div>
+                        </div>
+                        <div class="clearfix ">
+                            <div class="row">
+                                <div class="boxElement">كارت فئة 25,000</div>
+                                <div class="col-sm-4 inputsellholder">
+                                    <input type="email" class="form-control inputsell" placeholder="Email">
+                                </div>
+                                <div class="col-sm-1">/22</div>
+                            </div>
+                        </div>
+                        <div class="clearfix ">
+                            <div class="row">
+                                <div class="boxElement">كارت فئة 25,000</div>
+                                <div class="col-sm-4 inputsellholder">
+                                    <input type="email" class="form-control inputsell" placeholder="Email">
+                                </div>
+                                <div class="col-sm-1">/22</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+
+                
+
+            <div class="col-3" style="margin-left: -10px">
+                    <div class=" bodySell ">
+                        <div class="row">
+                            <div class=" col-sm-11 head asia headSell" > asia</div>
+                            <div class="boxElement">كارت فئة 25,000</div>
+                            <div class="col-sm-4 inputsellholder">
+                                <input type="email" class="form-control inputsell" placeholder="Email">
+                            </div>
+                            <div class="col-sm-1">/22</div>
+                        </div>
+                        <div class="clearfix ">
+                            <div class="row">
+                                <div class="boxElement">كارت فئة 25,000</div>
+                                <div class="col-sm-4 inputsellholder">
+                                    <input type="email" class="form-control inputsell" placeholder="Email">
+                                </div>
+                                <div class="col-sm-1">/22</div>
+                            </div>
+                        </div>
+                        <div class="clearfix ">
+                            <div class="row">
+                                <div class="boxElement">كارت فئة 25,000</div>
+                                <div class="col-sm-4 inputsellholder">
+                                    <input type="email" class="form-control inputsell" placeholder="Email">
+                                </div>
+                                <div class="col-sm-1">/22</div>
+                            </div>
+                        </div>
+                        <div class="clearfix ">
+                            <div class="row">
+                                <div class="boxElement">كارت فئة 25,000</div>
+                                <div class="col-sm-4 inputsellholder">
+                                    <input type="email" class="form-control inputsell" placeholder="Email">
+                                </div>
+                                <div class="col-sm-1">/22</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-3" style="margin-left: -10px">
+                        <div class=" bodySell ">
+                            <div class="row">
+                                <div class=" col-sm-11 head asia headSell" > asia</div>
+                                <div class="boxElement">كارت فئة 25,000</div>
+                                <div class="col-sm-4 inputsellholder">
+                                    <input type="email" class="form-control inputsell" placeholder="Email">
+                                </div>
+                                <div class="col-sm-1">/22</div>
+                            </div>
+                            <div class="clearfix ">
+                                <div class="row">
+                                    <div class="boxElement">كارت فئة 25,000</div>
+                                    <div class="col-sm-4 inputsellholder">
+                                        <input type="email" class="form-control inputsell" placeholder="Email">
+                                    </div>
+                                    <div class="col-sm-1">/22</div>
+                                </div>
+                            </div>
+                            <div class="clearfix ">
+                                <div class="row">
+                                    <div class="boxElement">كارت فئة 25,000</div>
+                                    <div class="col-sm-4 inputsellholder">
+                                        <input type="email" class="form-control inputsell" placeholder="Email">
+                                    </div>
+                                    <div class="col-sm-1">/22</div>
+                                </div>
+                            </div>
+                            <div class="clearfix ">
+                                <div class="row">
+                                    <div class="boxElement">كارت فئة 25,000</div>
+                                    <div class="col-sm-4 inputsellholder">
+                                        <input type="email" class="form-control inputsell" placeholder="Email">
+                                    </div>
+                                    <div class="col-sm-1">/22</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+
+                
+
+
+
+        </div>
+    </form>
